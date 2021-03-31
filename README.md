@@ -1,8 +1,10 @@
-# Balancer Subgraph
+# SynthIndex Subgraph
 
 The graphql schema is still under heavy development and will likely have major breaking changes.
 
 Only the factory address is needed in subgraph.yaml, new pool addresses are automatically picked up using Graph Protocol's data source templates.
+
+Deployed on https://thegraph.com/explorer/subgraph/adi99/subgraph-sythindex. It uses the subgraph to query existing Indexes, show details of the indexes and User data.
 
 
 ## Setup
