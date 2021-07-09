@@ -1,8 +1,6 @@
 # SynthIndex Subgraph
 
-The graphql schema is still under heavy development and will likely have major breaking changes.
-
-Only the factory address is needed in subgraph.yaml, new pool addresses are automatically picked up using Graph Protocol's data source templates.
+https://github.com/adi99/SynthIndex is the Index builder for Synth from Synthetix.io. This repository is derived on Balancer's multi asset Pool. This will let user create indexes of different Assets and deployed graph is used to query data and showing different data on site. You can check it on https://index-synth.netlify.app/
 
 Deployed on https://thegraph.com/explorer/subgraph/adi99/subgraph-sythindex. It uses the subgraph to query existing Indexes, show details of the indexes and User data.
 
